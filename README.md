@@ -1,0 +1,3 @@
+## Password Cracker
+
+This is a simple brute-force password cracking function implemented in python which uses hashlib library to compare two file, a list of common passwords (https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt) and a hashed MD5 password file. This function finds passwords comparing both the files and prints the output.
