@@ -10,3 +10,5 @@ This is a simple brute-force password cracking function implemented in python wh
 
 We do this because in order to find the right password, we need to compare the content from both the plain-text file and the hashed file 
 to figure out which ones are matching.
+
+![alt text](<output image.png>)

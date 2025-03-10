@@ -25,5 +25,4 @@ hashFile = "1MillionPassword_hashed.txt"
 commonPassFile = "password_list.txt"
 password_cracker(hashFile, commonPassFile)
 
-
     
